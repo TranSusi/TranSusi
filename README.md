@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @TranSusi. My Vietnamese name is Tran Thi Phuong Linh
-- 👀 I’m interested in Data, NLP, Criminal Psychology, Pole dance, Yoga and how to live meaningfully with worthy trade-off, not unnecessary sufferings
-- 🌱 I’m currently learning Python, Probability, Basic A.I...
+- 👋 Hi, I’m Susi Tran (Linh Tran)
+- 👀 I’m interested in Data-driven decisions and how to live meaningfully with worthy trade-off, not unnecessary sufferings
+- 🌱 I’m currently learning Python, SQL, Power BI
 - 💞️ I’m looking to collaborate on any short-term, long-term projects, internship, courses relating to Data. Tittle is not a big deal. Work tasks are more matter to me.
 - 📫 I'm reached out by:
 Whatsapps/ Phone: +358 046 550 1137
